@@ -37,11 +37,11 @@ images:
   newName: 522244679887.dkr.ecr.ap-northeast-2.amazonaws.com/rs/loader
   newTag: adf5fe9ec2b3525a94c4a42443879d092fab63c9
 - name: rs/portrait
-  newName: public.ecr.aws/t8u1z3c8/rs/portrait
-  newTag: latest
+  newName: 522244679887.dkr.ecr.ap-northeast-2.amazonaws.com/rs/portrait
+  newTag: e9ed6b50a90b946805c2a02c09cb2d6c6aa59687
 - name: rs/portrait-plugin
-  newName: public.ecr.aws/t8u1z3c8/rs/portrait-plugin
-  newTag: latest
+  newName: 522244679887.dkr.ecr.ap-northeast-2.amazonaws.com/rs/portrait-plugin
+  newTag: news-e9ed6b50a90b946805c2a02c09cb2d6c6aa59687
 - name: rs/rank
   newName: 522244679887.dkr.ecr.ap-northeast-2.amazonaws.com/rs/rank
   newTag: adf5fe9ec2b3525a94c4a42443879d092fab63c9
